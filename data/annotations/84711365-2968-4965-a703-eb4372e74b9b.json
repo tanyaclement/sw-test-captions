@@ -1,0 +1,757 @@
+{
+  "event_id": "68874f9b-9815-423d-9efd-d58048e64061",
+  "source_id": "ab6dd294-93c8-4e80-b5e1-2486293f8592",
+  "set": "Anna Machcewitz Critical Edition [Transcript]",
+  "annotations": [
+    {
+      "start_time": 62.76,
+      "end_time": 67.022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The ghetto was entirely liquidated after the defeat of the uprising in May 1943. After the greatest wave of deportations in the summer of 1942, however, the ghetto area still existed (with workshops where Jews had to work for the German war economy) and about 35,000 people still lived in the ghetto."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4a813c25-1e0a-4b61-88dc-0f91672d4705"
+    },
+    {
+      "start_time": 216.66,
+      "end_time": 221.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dror (Hebrew: Liberty) – one of the youth Jewish organizations in Poland preparing its members for agricultural work; Dror was part of the “Hechalutz” movement, founded to prepare youths planning to emigrate to Palestine."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e728b9d2-2dae-403e-b91a-8bb39511f6ec"
+    },
+    {
+      "start_time": 231.3,
+      "end_time": 234.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Umschlagplatz – a place within the ghetto where Jews were brought by the Germans and Jewish police to await (sometimes a couple of days) the trains deporting them to Treblinka."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6a38396a-6f1a-4de9-be74-32d8ce70f554"
+    },
+    {
+      "start_time": 257.54,
+      "end_time": 262.02,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grochów Farm was where “Hechalutz” members were sent in the 1930s to study agriculture in the"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "pioneering training institute in Grochów in Warsaw."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8633010b-3d5c-488d-89f6-d9266eb20f5a"
+    },
+    {
+      "start_time": 262.3,
+      "end_time": 266.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hah-shara (Hebrew: training) – a Zionist pioneer training farm."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "54f821b4-1ad7-4e66-afa7-67dcb0b9c106"
+    },
+    {
+      "start_time": 305.34,
+      "end_time": 308.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Volksdeutche",
+              "italic": true
+            },
+            {
+              "text": " – ethnic Germans living in Poland before the war, or those Poles who during the war signed the German National List ("
+            },
+            {
+              "text": "Deutsche Volksliste",
+              "italic": true
+            },
+            {
+              "text": ") declaring adherence to the German nation."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "89232706-48c6-4521-b10a-a094e8904574"
+    },
+    {
+      "start_time": 428.62,
+      "end_time": 432.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hanna Szapiro (1917-1943) – a leftist activist. She studied law at Warsaw University and was a member of the radical leftist Social Youth Organization “Życie” (Life). During the German occupation she used the name Sawicka. She was an outstanding member of the hidden leftist movement. In 1942 she became a member of the Communist Polish Workers Party. In 1943 she was arrested and died in a Nazi prison."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b92f3cf2-5935-4e93-be66-44ba6a2bb379"
+    },
+    {
+      "start_time": 468.06,
+      "end_time": 475.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Balicka probably meant the Architecture and Urban Planning Studio (PAU, Pracownia Architektoniczno-Urbanistyczna), which prepared the reconstruction of Warsaw after the war."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "64b92692-2a95-4517-a4de-9288ff879ae8"
+    },
+    {
+      "start_time": 476.1,
+      "end_time": 481.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Helena Syrkusowa (1900-1982) – a Polish architect and one of the founders of the Preasens Group that popularized a modern and social architecture in Poland before and after WWII. See Eric Paul Mumford, "
+            },
+            {
+              "text": "The CIAM discourse on urbanism, 1928-1960",
+              "italic": true
+            },
+            {
+              "text": " (Cambridge, Mass: MIT Press, 2002)."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d1440a4c-00a3-45bb-a58d-879a848dcdd9"
+    },
+    {
+      "start_time": 476.1,
+      "end_time": 481.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aleksander Dyszko-Wolski (1913-1998) – an engineer who, during the Nazi occupation, hid with his wife and child on the “Aryan” side in many places, including Warsaw. At this time he worked secretly in the Architecture and Urban Lab. In 1944, as a member of the People’s Army, he took part in the Warsaw Uprising. After the war he worked as a chief of the Department of Economy in the Ministry of Public Security. Probably in 1947 he left Poland. He died in Israel in 1998. At his request, the medal of Righteous Among the Nations was awarded to Stanisław Tołwiński (a member of the PAU – see note 8), who saved his life during the occupation."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "47d697f9-7664-4365-b11d-673391372324"
+    },
+    {
+      "start_time": 481.94,
+      "end_time": 487.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kazimierz Leon Toeplitz (1902−91) – a lawyer who, as a member of the illegal Communist movement, was condemned to prison in prewar Poland. For many years he examined demographic issues concerning workers’ houses."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2e4075f9-b087-46fd-9083-2c9a700e79af"
+    },
+    {
+      "start_time": 481.94,
+      "end_time": 487.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Krzysztof Teodor Toeplitz (1933-2010) – a Polish film critic and journalist."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a226fb8a-3f75-42ef-beff-0881988622d5"
+    },
+    {
+      "start_time": 491.78,
+      "end_time": 496.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Warsaw Housing Cooperative (WSM, Warszawska Spółdzielnia Mieszkaniowa) – established in 1921 by Polish left-wing activists, advocated workers cooperatives and cheap and modern workers’ residential buildings."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e2e8093b-a964-44b0-982a-0b6f9b12e4ec"
+    },
+    {
+      "start_time": 491.78,
+      "end_time": 496.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Social Construction Enterprise (Społeczne Przedsiębiorstwo Budowlane, SPB) – was an association operating at the WSM; well-known for its extensive helping of Jewish people during the occupation."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a82b4274-f8b9-45e3-a330-fa1bb91abfd5"
+    },
+    {
+      "start_time": 575.02,
+      "end_time": 578.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About 5.7 million Soviet POWs were detained in Nazi custody in terrible conditions. Starvation and disease resulted in mass death, estimated at 3.3-3.5 million victims. One of the Soviet POW camps was located in Dęblin, 40 miles from Warsaw."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "95f63e2d-a7af-428b-94a7-4a13374aa452"
+    },
+    {
+      "start_time": 610.478,
+      "end_time": 614.442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kennkarte",
+              "italic": true
+            },
+            {
+              "text": " – an ID issued by the German authorities to all inhabitants of the General Government."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d6d362d8-4a20-4a17-9c1f-c6513fb4f2d5"
+    },
+    {
+      "start_time": 672.62,
+      "end_time": 676.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bernard Szapiro (1866-1943) – a Polish-Jewish socialist, trade union activist, and journalist."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a963d75e-ccf0-432a-8377-36d287670845"
+    },
+    {
+      "start_time": 721.54,
+      "end_time": 727.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kazimierz Zweibaum Zakrzewski (1918-2000) – a Polish doctor, studied at Warsaw University, son of Prof. Juliusz Zweibaum. During the war he took part in the research on death by starvation conducted by Jewish doctors in the Warsaw ghetto."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "54872065-6abc-47f8-9b85-5d5bd7ad4a7d"
+    },
+    {
+      "start_time": 765.66,
+      "end_time": 769.74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dęblin – a town south-east of Warsaw."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "208d35c4-516f-448a-ac53-228eeb04d4fc"
+    },
+    {
+      "start_time": 786.22,
+      "end_time": 790.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Young People's Fighting Union (Związek Walki Młodych, ZWM) – was created in 1943 as a result of a merger of a few radical leftist and Communist organizations and published the journal "
+            },
+            {
+              "text": "The Struggle of the ",
+              "italic": true
+            },
+            {
+              "text": "Youth",
+              "italic": true
+            },
+            {
+              "text": " (“Walka Młodych”). The Union became ideologically tied to the Communist Polish Workers Party (Polska Partia Robotnicza, PPR) and its military branch, the People's Army (Armia Ludowa, AL)."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "07d14222-2018-4b93-a172-fcf79f2d1601"
+    },
+    {
+      "start_time": 818.916,
+      "end_time": 828.26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Żoliborz – a part of Warsaw."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d3fb15ed-1e3c-4005-b60b-09b1ef3ca663"
+    },
+    {
+      "start_time": 858.7,
+      "end_time": 863.26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Frania Rasmus – Frania Beatus see note 27."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d7405799-d69f-4ec1-8ba6-329c9e55c697"
+    },
+    {
+      "start_time": 913.58,
+      "end_time": 920.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pawiak – the German Secret State Police (Gestapo) prison in Warsaw"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cdc8e99d-5d0c-48bf-81b6-a3d7c626df58"
+    },
+    {
+      "start_time": 946.46,
+      "end_time": 948.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carousel on Krasińskich Square – Krasińskich Square, adjacent to the ghetto wall. In early spring 1943 a Warsaw photographer took a photo of boat-shaped swings and a carousel set up on the corner of Długa Street and Krasińskich Square. There is no proof that people came to play there during the Jewish ghetto uprising, but this image of “bystanders to the Holocaust” became emblematic. The famous Polish poet Czesław Miłosz perpetuated the fame of this picture in a poem titled “Campo di Fiori.”"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "43a1bb92-fba5-4dfa-8647-325b0e3444ff"
+    },
+    {
+      "start_time": 960.58,
+      "end_time": 965.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sewer hatch – the municipal sewage system became a means of evacuation for Jewish fighters in 1943 and for the Warsaw uprising participants in 1944."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "db0ed9ce-797d-499e-b147-085f4b5e8ab0"
+    },
+    {
+      "start_time": 1079.02,
+      "end_time": 1086.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See note 27."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8115a283-0ba9-4362-a327-af3704341ba9"
+    },
+    {
+      "start_time": 1161.66,
+      "end_time": 1167.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See note 33."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e5c04d01-9d4e-4557-bd4b-d335bce1c734"
+    },
+    {
+      "start_time": 1171.3,
+      "end_time": 1176.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Frania Beatus (1926- 1943) – a courier between the ghetto and the rest of the city, conveying messages and smuggling weapons. She committed suicide three weeks after the Warsaw ghetto uprising began, prompted by the information that majority of the Jewish Fighting Organization’s leadership had been wiped out on May 8 in a bunker on Miła Street."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f1bdc7bd-5697-4a87-8c2b-828b6eed565b"
+    },
+    {
+      "start_time": 1171.3,
+      "end_time": 1176.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kazik (Kazimierz) Ratajzer vel Simhah Rotem (1924-2018) – as a young man he became a member of the Zionist movement. Under the Nazi occupation he served as the head courier of the Jewish Fighting Organization (ŻOB). He took part in the Warsaw ghetto uprising in 1943 and in the Warsaw uprising in 1944. After the end of the war he joined the Nakam group, an organization of Holocaust survivors who engaged in revenge killing by poisoning of German soldiers and Nazis. In 1947 he emigrated to Palestine and lived in Jerusalem."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "76823bc2-418e-41a8-8a22-cba16ba824ea"
+    },
+    {
+      "start_time": 1187.58,
+      "end_time": 1194.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Simhah Rotem, "
+            },
+            {
+              "text": "Memoirs of a Warsaw Ghetto Fighter: The Past within Me",
+              "italic": true
+            },
+            {
+              "text": " (New Haven: Yale University Press, 1994)."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7feb63ac-3f94-4073-b8cd-70c3f30c6fab"
+    },
+    {
+      "start_time": 1222.3,
+      "end_time": 1223.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Władysław Gaik pseud. Krzaczek (1914-1944) – the People’s Army soldier who helped the Jewish fighters evacuated from the Warsaw ghetto after the uprising’s collapse."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2a4a5b19-ca3c-4bb6-a7d7-b955e3f44fc0"
+    },
+    {
+      "start_time": 1241.02,
+      "end_time": 1244.98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lodzia (Lea) Hammerstein-Silberstein (1924-2014) – before the war she was involved in the Zionist youth movement. In 1941 she left the Warsaw ghetto and lived and worked under a false, non-Jewish, identity. She served as a ŻOB courier. In 1944 she took part in the Warsaw uprising. After the war she left Poland. She lived in Israel and finally settled in the US."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1fe4319c-4b41-4d5d-86c4-b07c38ac7ea1"
+    },
+    {
+      "start_time": 1327.26,
+      "end_time": 1330.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rembertów – one of Warsaw’s suburbs."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f3ede3b9-ac8d-4529-a5a4-3034ba87e7ed"
+    },
+    {
+      "start_time": 1327.26,
+      "end_time": 1330.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luba Zylberg – Gawisar (1924-2011) – born in Warsaw into an assimilated Jewish family; a Jewish resistance activist in the Warsaw ghetto and participant in the uprising. Since 1946 she has lived in Israel, originally in the Lochame ha-Geta'ot kibbutz, then in Tel Aviv."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0ded68ec-47a0-4abb-8a8c-e0ad02ff6790"
+    },
+    {
+      "start_time": 1475.164,
+      "end_time": 1478.784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jurewicz – it has not been possible to establish who he was."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a493d6ad-90b5-4d42-844e-fa1da6ff4694"
+    },
+    {
+      "start_time": 1798.58,
+      "end_time": 1807.98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ludwika Chodakowa – a school friend of Jadwiga Balicka."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cbdeeec2-4bc8-4826-8594-21b5dc397d29"
+    },
+    {
+      "start_time": 1904.98,
+      "end_time": 1911.26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jerzy Grzela Gromkowski (?-1944) – an oncologist. During the war he worked at the Wola Hospital. Arrested by the Gestapo in 1943, he died in Auschwitz in April 1944."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b349530d-5055-400e-ba84-6480af9882aa"
+    },
+    {
+      "start_time": 1911.58,
+      "end_time": 1917.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alina Przerwa-Tetmajer neé Dąbrowska (1915-1996) - a pediatrician. During the war she worked at the Wola Hospital. In 1943 she was arrested by the Gestapo and sent to Auschwitz and in 1945 to Ravensbrück."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "53fa20cc-0480-4450-a816-7ca2af72419d"
+    },
+    {
+      "start_time": 1981.02,
+      "end_time": 1985.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aleja Szucha – a street in Warsaw where the headquarters and detention center of the Gestapo were located."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "54697088-8d24-42ce-a1b5-f80b61b9a252"
+    },
+    {
+      "start_time": 2020.26,
+      "end_time": 2024.02,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Krysia” – pseudonym of Sara Biderman in ŻOB."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "12017593-7815-4b11-a812-2d6a94e4fdce"
+    },
+    {
+      "start_time": 2039.7,
+      "end_time": 2051.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Irena Gelblum (1923-2009) – she was a member of the Jewish Fighting Organization (ŻOB) living on the “Aryan” side. After the end of the war she joined the Nakam group with Symcha Rotem. Both went to Palestine, but after a year Irena returned to Poland. In 1969 she left Poland and lived in Italy, working as a journalist under the name Conti and pretending to be of Italian nationality."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9f7356d9-5f2b-414e-aaf5-5b911d491ace"
+    },
+    {
+      "start_time": 2039.7,
+      "end_time": 2051.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pańska Str, App 5. This place was rented and used as a shelter by ŻOB members."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fa07e673-e13b-4897-ad8f-69b853d29ecf"
+    },
+    {
+      "start_time": 2098.1,
+      "end_time": 2100.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Powiśle – a part of Warsaw."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a6d62677-f29e-40d6-ad96-2c8f4a346bf9"
+    },
+    {
+      "start_time": 2125.82,
+      "end_time": 2129.02,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Antek Cukierman or Icchak Zuckerman (1915-1981) – as a young man he embraced the Zionist movement. Under the Nazi occupation he was a leader of Dror and was one of the leaders of the Jewish Fighting Organization. He took part in the Warsaw ghetto uprising in 1943 and the Warsaw Uprising in 1944. After the war he emigrated to Palestine and was among the founding members of Kibbutz Lohamei HaGeta'ot (Ghetto Fighters' Kibbutz)."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1c6b02fb-2ef8-44df-bc09-bdedac2750fc"
+    }
+  ]
+}

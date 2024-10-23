@@ -1,0 +1,2163 @@
+{
+  "event_id": "b2896135-27ca-4a1e-bf73-7b9ee6b1b0c4",
+  "source_id": "ddd22d5d-1143-454c-ba41-b0f5fcc40ca5",
+  "set": "mssa_hvt_3164_p3of3_transcript_pl.txt [Transcript]",
+  "annotations": [
+    {
+      "start_time": 38.9,
+      "end_time": 39.21,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Już?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "82a7f9a9-40ae-41f2-b67d-b2f9fb1f83c9"
+    },
+    {
+      "start_time": 39.21,
+      "end_time": 39.52,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Tak.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4978e716-fae0-4f2a-a7bb-8c4e7c2f9bf3"
+    },
+    {
+      "start_time": 39.52,
+      "end_time": 42.17,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Ja dotarłam na Stare Miasto 6...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "935c4dc8-e9d4-4d92-ad42-15b092daa67b"
+    },
+    {
+      "start_time": 42.17,
+      "end_time": 42.951,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: A jeszcze momencik...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2fa8badd-592c-4b8b-a551-8eab6c664485"
+    },
+    {
+      "start_time": 42.951,
+      "end_time": 45.305,
+      "annotation": [
+        {
+          "text": "\tZnaczy, skończymy może z tymi ŻOB-owcami.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b5d06a2c-f620-40a1-868a-dd9cd72b3609"
+    },
+    {
+      "start_time": 45.305,
+      "end_time": 50.029,
+      "annotation": [
+        {
+          "text": "\tPani mówiła, że pani poznała Kazika Rotena... Rotweisena...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5f286414-8dbb-478b-ae80-376ffee9c497"
+    },
+    {
+      "start_time": 50.029,
+      "end_time": 50.944,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Rathajzera.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "96378d1e-632a-4943-b065-414bde526b76"
+    },
+    {
+      "start_time": 50.944,
+      "end_time": 54.071,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Rathajzera wtedy i Franię Beatus.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0b54eecd-3883-4c05-a771-da82b4c927c3"
+    },
+    {
+      "start_time": 54.071,
+      "end_time": 54.984,
+      "annotation": [
+        {
+          "text": "\tA czy pani też poznała...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6437aa2a-2ace-4dc6-8518-99dd6e36dfd8"
+    },
+    {
+      "start_time": 54.984,
+      "end_time": 56.301,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Możliwe, że...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b5a25350-15df-49da-97bf-bb57b74e88fe"
+    },
+    {
+      "start_time": 56.301,
+      "end_time": 56.96,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Antka?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0556f98f-6a86-4cb0-8d22-44a2b1d1592b"
+    },
+    {
+      "start_time": 56.96,
+      "end_time": 60.254,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Również wtedy, ja nie pamiętam, Lodzię,\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c437965c-20a8-4214-b040-ccbac2f29932"
+    },
+    {
+      "start_time": 60.254,
+      "end_time": 61.69,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Tak.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5876368d-36df-491e-a68d-233c161d8273"
+    },
+    {
+      "start_time": 61.69,
+      "end_time": 65.771,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Czyli wtedy była Hammerstein.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fa786aad-14ed-4a9e-837b-50222b26f24c"
+    },
+    {
+      "start_time": 65.771,
+      "end_time": 72.99,
+      "annotation": [
+        {
+          "text": "\tTa, która teraz jest w Waszyngtonie w Bibliotece Kongresu, z którą się bardzo przyjaźnię.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "57bd21c9-bf73-4b26-8bfa-5a4d15c297db"
+    },
+    {
+      "start_time": 72.99,
+      "end_time": 77.035,
+      "annotation": [
+        {
+          "text": "\tA resztę poznałam właśnie na Starym Mieście.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "546ae044-ca33-4a8d-a63b-ce7cb3f492cb"
+    },
+    {
+      "start_time": 77.035,
+      "end_time": 80.505,
+      "annotation": [
+        {
+          "text": "\tZnaczy, to było 7 albo 8.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "215470b0-24b3-4f5b-be40-078a316ec752"
+    },
+    {
+      "start_time": 80.505,
+      "end_time": 82.848,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Dobrze. 7-8 sierpnia?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3941af48-919f-407e-acd2-122c2c2cf491"
+    },
+    {
+      "start_time": 82.848,
+      "end_time": 85.243,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: 7 lub 8 sierpnia.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c0460e28-a7ea-4f9d-a087-a567ea551409"
+    },
+    {
+      "start_time": 85.243,
+      "end_time": 97.221,
+      "annotation": [
+        {
+          "text": "\tKtoś mnie woła po imieniu i widzę, że Sara stoi w grupce osób no, część miała wygląd.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c81a9c0-877b-440a-bd2d-e468b2c17960"
+    },
+    {
+      "start_time": 97.221,
+      "end_time": 100.487,
+      "annotation": [
+        {
+          "text": "\tNo i skąd wyście się tu wzięli, ona skąd ja się wzięłam.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3d0ab02d-82c0-4f96-b049-2bf07e5282f2"
+    },
+    {
+      "start_time": 100.487,
+      "end_time": 103.979,
+      "annotation": [
+        {
+          "text": "\tBo myśmy przyszli zapisać się do Armii Ludowej.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e69d30a8-c046-4694-a9ae-c2b58c9f61ef"
+    },
+    {
+      "start_time": 103.979,
+      "end_time": 112.259,
+      "annotation": [
+        {
+          "text": "\tNie mieliśmy, nie wiedzieliśmy, gdzie się udać, zresztą ja też szukałam parę dni, nim złapałam kontakt.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7042d39-7c24-42fa-91aa-794e3c53ef4c"
+    },
+    {
+      "start_time": 112.259,
+      "end_time": 116.274,
+      "annotation": [
+        {
+          "text": "\tZgłaszaliśmy się do AK, ale nas nie chcieli jako oddział przyjąć.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0bb46895-95a5-4166-aa80-3e23ddda4eb3"
+    },
+    {
+      "start_time": 116.274,
+      "end_time": 119.192,
+      "annotation": [
+        {
+          "text": "\tJa mówię, ja się też zgłaszałam do AK, a też nie miałam żadnych poleceń.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f493402c-6341-452b-a31b-639709500ae2"
+    },
+    {
+      "start_time": 119.192,
+      "end_time": 123.178,
+      "annotation": [
+        {
+          "text": "\tTych ochotników było dużo więcej niż... niż...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6fc387e9-c7fe-4b26-bb9e-f4d1e90c201a"
+    },
+    {
+      "start_time": 123.178,
+      "end_time": 127.348,
+      "annotation": [
+        {
+          "text": "\tw nadmiarze, po prostu nie przyjmowali.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c1323bda-34ae-496e-a093-a4020d0b4f3c"
+    },
+    {
+      "start_time": 127.348,
+      "end_time": 130.666,
+      "annotation": [
+        {
+          "text": "\tNo i mówi: W tej chwili Antek rozmawia w waszym sztabie.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "24b32160-1579-4410-8f0c-cec9c6e25c29"
+    },
+    {
+      "start_time": 130.666,
+      "end_time": 137.774,
+      "annotation": [
+        {
+          "text": "\tI po chwili Antek wyszedł i powiedział, że przyjęli nas do 3. batalionu kapitana Hiszpana.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fdc09c06-aa22-4ca6-a4f5-43b51093780a"
+    },
+    {
+      "start_time": 137.774,
+      "end_time": 141.89,
+      "annotation": [
+        {
+          "text": "\tJa byłam w 4. batalionie, czyli w Czwartakach.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0ea1df05-9f33-4944-ba64-931a4cab1751"
+    },
+    {
+      "start_time": 141.89,
+      "end_time": 164.321,
+      "annotation": [
+        {
+          "text": "\tI wtedy poznałam Antka, Cywię, którzy byli mi świetnie znani z opowiadań, Marka, Tuwię Borzykowskiego, Kazik był, Stefan Grajek, Zygmunt Warman, Marysia Warmanowa i tam jeszcze, już nie pamiętam wszystkich.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0c5d8b3b-d570-45a8-9e9a-571ff4520ecc"
+    },
+    {
+      "start_time": 164.321,
+      "end_time": 182.979,
+      "annotation": [
+        {
+          "text": "\tMyśmy kwaterowali blisko, dlatego że ja na Freta 16, a oni w podziemiach Hal Targowych na Świętojerskiej. To było niecałe 5 minut nawet, więc czasami, jak miałam jakąś wolną chwilę, wpadałam do szpitala, bo to w tej piwnicy był nasz szpital i dalej oni kwaterowali.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f9d4dd11-ebeb-4338-851b-a620fabe659b"
+    },
+    {
+      "start_time": 182.979,
+      "end_time": 188.097,
+      "annotation": [
+        {
+          "text": "\tI parokrotnie pamiętam dyskusje z Cywią.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ab1c20b-306a-4028-8135-01f775d16c3c"
+    },
+    {
+      "start_time": 188.097,
+      "end_time": 198.152,
+      "annotation": [
+        {
+          "text": "\tByło bardzo ciekawe, że wtedy, w tym najgorszym piekle, myśmy rozmawiały na tematy solucjonizmu i Palestyny.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b4fbac23-2324-449e-97b1-7af50fa4f42b"
+    },
+    {
+      "start_time": 198.152,
+      "end_time": 202.726,
+      "annotation": [
+        {
+          "text": "\tPierwszy raz ja miałam jakieś takie relacje dokładniejsze.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9605051d-c9ff-43c2-bdbc-10d610d82e86"
+    },
+    {
+      "start_time": 202.726,
+      "end_time": 226.012,
+      "annotation": [
+        {
+          "text": "\tI tutaj muszę dodać, że ja byłam nastawiona w stosunku do Żydów bardzo asymilatorsko, że uważałam, że rozwiązanie kwestii żydowskiej to jest proces bardzo długotrwały, ale konieczny, bo jednak religia żydowska powoduje wielkie zacofanie.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7be96a9b-fa10-457c-9f5f-524bff01c91e"
+    },
+    {
+      "start_time": 226.012,
+      "end_time": 231.197,
+      "annotation": [
+        {
+          "text": "\tJest przepaść między społeczeństwem polskim a żydowskim.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "730ede93-c104-4128-8005-22df21637fc4"
+    },
+    {
+      "start_time": 231.197,
+      "end_time": 244.402,
+      "annotation": [
+        {
+          "text": "\tŻe tak jak na Zachodzie Żydzi zachowują swoją religię, ale nie są tak wyodrębnieni jak w Polsce, że właściwie ten proces powinien trwać tak, jak trwa w krajach zachodnich.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "541eaa17-6a95-44c9-8ff7-82b3a45dec6f"
+    },
+    {
+      "start_time": 244.402,
+      "end_time": 255.38,
+      "annotation": [
+        {
+          "text": "\tEwentualnie uważałam, że jeszcze bunt tak, ale z drugiej strony zachowywać tak wielką odrębność trzymilionowej masy to też właściwie nie jest dobre.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "da2fd639-600f-45f8-8987-291d90ccbc1b"
+    },
+    {
+      "start_time": 255.38,
+      "end_time": 262.888,
+      "annotation": [
+        {
+          "text": "\tNie miałam tak bardzo sprecyzowanych poglądów, ale, powiedzmy, najdalsza byłam od syjonizmu.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7920d948-3c41-4293-b4a2-46ece1fcf4f2"
+    },
+    {
+      "start_time": 262.888,
+      "end_time": 266.323,
+      "annotation": [
+        {
+          "text": "\tUważałam, że to jest owszem piękna idea.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4f2572d8-8e32-482a-8e8d-bd0fea71f58f"
+    },
+    {
+      "start_time": 266.323,
+      "end_time": 270.952,
+      "annotation": [
+        {
+          "text": "\tNigdy nie byłam, że tak powiem, przeciwko, ale piękna idea, absolutna mrzonka.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bf92c9b5-f62a-452d-80d4-392faf9930f5"
+    },
+    {
+      "start_time": 270.952,
+      "end_time": 278,
+      "annotation": [
+        {
+          "text": "\tRaz dlatego, że to jest teren arabski, z drugiej strony miejsce strategiczne ścierania się rozmaitych imperializmów.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ccfd9ae-4f7f-4708-af8c-3d3c9b9a3022"
+    },
+    {
+      "start_time": 278,
+      "end_time": 281.697,
+      "annotation": [
+        {
+          "text": "\tKraj niesłychanie biedny, kto by to sfinansował?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "da30151e-701d-49db-823a-7324edc6dc25"
+    },
+    {
+      "start_time": 281.697,
+      "end_time": 282.67,
+      "annotation": [
+        {
+          "text": "\tWiedziałam niewiele.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9dcce5aa-c309-4f41-8575-654e92a48413"
+    },
+    {
+      "start_time": 282.67,
+      "end_time": 286.372,
+      "annotation": [
+        {
+          "text": "\tWiedziałam, że są grupy ludzi, którzy wyjeżdżają.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e7bb6c5b-b6d7-4f85-9671-372efcee0b41"
+    },
+    {
+      "start_time": 286.372,
+      "end_time": 289.808,
+      "annotation": [
+        {
+          "text": "\tWiedziałam też o tych halucach, którzy się przygotowują, ale niewiele.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2e75a446-d0f2-4689-a28b-368c7a061ddd"
+    },
+    {
+      "start_time": 289.808,
+      "end_time": 294.956,
+      "annotation": [
+        {
+          "text": "\tI Cywia mi robiła całe wykłady o tym, co robią haluce.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "eb516774-6ba0-4e7a-a74b-cc7e9da45afa"
+    },
+    {
+      "start_time": 294.956,
+      "end_time": 301.728,
+      "annotation": [
+        {
+          "text": "\tPamiętam, że mówiła o osuszaniu błot Emek Izrael, opowiadała o kibucach.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "69d4130a-5f33-49aa-b944-be3ffb62a679"
+    },
+    {
+      "start_time": 301.728,
+      "end_time": 307,
+      "annotation": [
+        {
+          "text": "\tMówiła trochę o historii syjonizmu, szczegółów nie pamiętam.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "90e06553-9a8f-4f87-8a7f-106a2f6fd0fe"
+    },
+    {
+      "start_time": 307,
+      "end_time": 325.655,
+      "annotation": [
+        {
+          "text": "\tByło charakterystyczne, że ja później, jak napisałam w książce tę dyskusję, to redaktor wydawnictwa Ministerstwa Obrony Narodowej zresztą, pani Wichowa, mówi: Pani to musi zmienić, bo z przebiegu dyskusji wynika, że Cywia panią przekonała.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2dba0432-70dc-4e19-999f-3da5cbbc79ed"
+    },
+    {
+      "start_time": 325.655,
+      "end_time": 326.929,
+      "annotation": [
+        {
+          "text": "\tJa mówię, że tak było.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "01697823-d128-416a-a60b-3264151f5e3a"
+    },
+    {
+      "start_time": 326.929,
+      "end_time": 329.053,
+      "annotation": [
+        {
+          "text": "\tAle pani to musi zmienić.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f6745e12-5e50-443f-9618-d4555b4d3eb5"
+    },
+    {
+      "start_time": 329.053,
+      "end_time": 333.828,
+      "annotation": [
+        {
+          "text": "\tNa szczęście ona zmieniła pracę i ja tę dyskusję w książce zachowałam.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b8bc448f-079c-4371-b595-ede31bc99c6f"
+    },
+    {
+      "start_time": 333.828,
+      "end_time": 336.751,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: A czy to było tak w trakcie powstania warszawskiego?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a08487f4-b800-448c-a2f3-1533ab5cd691"
+    },
+    {
+      "start_time": 336.751,
+      "end_time": 338.966,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: To było w trakcie powstania warszawskiego.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a9a937d0-7982-4792-9be6-a2cf2ab65092"
+    },
+    {
+      "start_time": 338.966,
+      "end_time": 341.087,
+      "annotation": [
+        {
+          "text": "\tAle Sary już wtedy nie było, bo Sara...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "92fc43a0-8e24-4da2-94bc-2ef8a539f93a"
+    },
+    {
+      "start_time": 341.087,
+      "end_time": 355.945,
+      "annotation": [
+        {
+          "text": "\tZnowuż nie widziałam Sary przez parę dni i okazuje się, że Sara, Kazik i jeszcze parę innych osób poszło na Leszno po broń, czy archiwum swoje, pieniądze i tak dalej. Ich odcięto.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e4f1df49-0271-491e-90b7-f90fb25e892b"
+    },
+    {
+      "start_time": 355.945,
+      "end_time": 360.61,
+      "annotation": [
+        {
+          "text": "\tTylko Marek, Markowi udało się wrócić, który szedł później. Oni zostali tam.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a9299f31-23a3-466c-a485-e325ac93e4ec"
+    },
+    {
+      "start_time": 360.61,
+      "end_time": 366.996,
+      "annotation": [
+        {
+          "text": "\tTakże znowu dla mnie Sara, nie wiem, po raz, 10. zginęła.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c3be1fa8-31bd-4b32-9b34-86bf54994fda"
+    },
+    {
+      "start_time": 366.996,
+      "end_time": 385.837,
+      "annotation": [
+        {
+          "text": "\tI nic absolutnie o niej nie wiedziałam, a jeżeli chodzi o grupę ŻOB-owców, to myśmy mieli być ewakuowani w nocy z 27 na 28 ze Starego Miasta na Żoliborz, gdzie też AL był.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "98bd5a31-68c5-4195-832d-a0ec57b5e98d"
+    },
+    {
+      "start_time": 385.837,
+      "end_time": 389.97,
+      "annotation": [
+        {
+          "text": "\tTak 3. batalion, jak i 4.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ad33d500-3888-4360-916b-f45cd5186490"
+    },
+    {
+      "start_time": 389.97,
+      "end_time": 397.332,
+      "annotation": [
+        {
+          "text": "\tI tak się zdarzyło, że ja nie szłam ze swoim oddziałem, tylko z tymi ostatnimi, którzy wchodzili do kanałów.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "87770151-5b80-4e16-b185-8477d230e4ec"
+    },
+    {
+      "start_time": 397.332,
+      "end_time": 398.801,
+      "annotation": [
+        {
+          "text": "\tPrzypadek zupełny.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f689f742-2fd4-461e-8e9c-8fdfc5a208a6"
+    },
+    {
+      "start_time": 398.801,
+      "end_time": 409.351,
+      "annotation": [
+        {
+          "text": "\tI o ile prawie wszyscy, co najmniej 300 osób przeszło wtedy, o tyle myśmy, ci ostatni, musieli zawrócić, bo woda kanałowa nam sięgała do brody.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "76bfa8db-120a-4232-bf5d-c76464488cb1"
+    },
+    {
+      "start_time": 409.351,
+      "end_time": 414.483,
+      "annotation": [
+        {
+          "text": "\tKilka osób utonęło, po prostu niższych albo słabszych, rannych.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "16174d20-6687-4138-a7dd-5262640372cd"
+    },
+    {
+      "start_time": 414.483,
+      "end_time": 421.475,
+      "annotation": [
+        {
+          "text": "\tTakże nas, nie wiem, kilkadziesiąt osób się cofnęło i ja wtedy straciłam z nimi wszystkimi łączność.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e5da9b3b-1c4b-4a15-8644-db1f63adebcc"
+    },
+    {
+      "start_time": 421.475,
+      "end_time": 427.137,
+      "annotation": [
+        {
+          "text": "\tZnaczy z Sarą wcześniej, która została na Lesznie, a z tamtymi później.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "17772173-1194-49dc-916a-68dec54f15d2"
+    },
+    {
+      "start_time": 427.137,
+      "end_time": 442.407,
+      "annotation": [
+        {
+          "text": "\tI później dopiero, jak leżałam w szpitalu w Krakowie, już po amputacji ręki, to jedna z moich ciotek napisała w karcie, że spotkała Sarę na ulicy.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1c554966-3c1e-4cb4-9862-b523e87e269e"
+    },
+    {
+      "start_time": 442.407,
+      "end_time": 444.514,
+      "annotation": [
+        {
+          "text": "\tOna bywała u nas w domu, więc Sarę znała.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "51ddfc50-3ad0-4d80-b955-3b0c0d84bb20"
+    },
+    {
+      "start_time": 444.514,
+      "end_time": 451.389,
+      "annotation": [
+        {
+          "text": "\t\"No ona wróciła z robót w Niemczech i nawet wybiera się ciebie odwiedzić w Krakowie\".\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "19e25722-6bda-4c43-bde5-915c1bd96d8f"
+    },
+    {
+      "start_time": 451.389,
+      "end_time": 455.439,
+      "annotation": [
+        {
+          "text": "\tJa Sarę potem widziałam ze 2-3 razy.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a8b713db-beae-49cc-87de-8fcfb43bafeb"
+    },
+    {
+      "start_time": 455.439,
+      "end_time": 466.652,
+      "annotation": [
+        {
+          "text": "\tZapamiętam najbardziej ten wieczór, kiedy nocowałam w kibucu przy Poznańskiej, tam było kilka mieszkań zajętych przez kibuc.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c359579-c112-4a90-9a14-f98f3147161e"
+    },
+    {
+      "start_time": 466.652,
+      "end_time": 474.721,
+      "annotation": [
+        {
+          "text": "\tJa tam byłam chyba parę razy, ale wtedy było bardzo daleko na Bielany, a ja nie bardzo miałam pieniądze na furkę.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e46268ca-e96e-469e-a6e4-4d0dd5527822"
+    },
+    {
+      "start_time": 474.721,
+      "end_time": 481.454,
+      "annotation": [
+        {
+          "text": "\tZresztą wtedy było przed powrotem ojca, myśmy nie mieli z czego żyć.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "44d077ea-66e7-4a18-b2fb-13c60aa27166"
+    },
+    {
+      "start_time": 481.454,
+      "end_time": 487.67,
+      "annotation": [
+        {
+          "text": "\tI pamiętam, że nas zaprosili na kolację i my siedzimy wszyscy i jemy kolację i brakuje Antka.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e88f4cd6-83d8-409e-88b8-356c6eef060e"
+    },
+    {
+      "start_time": 487.67,
+      "end_time": 494.539,
+      "annotation": [
+        {
+          "text": "\tI Antek przyszedł i tu niesłychanie wyraziście pamiętam.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4a8c0711-b2a0-469e-9809-db85a470ba4c"
+    },
+    {
+      "start_time": 494.539,
+      "end_time": 505.426,
+      "annotation": [
+        {
+          "text": "\tStanął w drzwiach, oparł się o framugę drzwi i milczał. Wobec tego cała rozmowa ucichła przy stole.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7d67a101-c083-4673-a186-ea8c390bfbbe"
+    },
+    {
+      "start_time": 505.426,
+      "end_time": 512.967,
+      "annotation": [
+        {
+          "text": "\tI on powiedział tak jakoś bardzo cicho, ale przy ogólnej ciszy było słychać: Dzisiaj Niemcy podpisały kapitulację.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "505362b0-e13a-4914-8e1b-549b2eee4275"
+    },
+    {
+      "start_time": 512.967,
+      "end_time": 519.6,
+      "annotation": [
+        {
+          "text": "\tWtedy, pamiętam, wszyscy przy stole powiedzieli dosłownie jednym głosem: Za późno.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "929e471d-72e8-4471-b636-8a41e00e5371"
+    },
+    {
+      "start_time": 519.6,
+      "end_time": 522.798,
+      "annotation": [
+        {
+          "text": "\tI to bardzo dokładnie pamiętam tę scenę.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5634811a-a5a6-4aad-b85b-0ce394d0164d"
+    },
+    {
+      "start_time": 522.798,
+      "end_time": 526.789,
+      "annotation": [
+        {
+          "text": "\tSara mnie odwiedziła na tych Bielanach, ja byłam tam parę razy.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "17a77d82-5611-4ab1-a001-e022853cac9a"
+    },
+    {
+      "start_time": 526.789,
+      "end_time": 531.778,
+      "annotation": [
+        {
+          "text": "\tOna coś mówiła o tym, że ona jednak chce jechać do Palestyny.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "18507670-c437-4f68-aff3-adfc9e1f4114"
+    },
+    {
+      "start_time": 531.778,
+      "end_time": 539.026,
+      "annotation": [
+        {
+          "text": "\tRaz dlatego, że Polska to jest cmentarz, wszyscy zginęli, ona się nie chce rozstawać z przyjaciółmi.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8e9f6714-61cf-4a96-a2c8-a7874b63c4dd"
+    },
+    {
+      "start_time": 539.026,
+      "end_time": 541.364,
+      "annotation": [
+        {
+          "text": "\tJa mówiłam: Czy dasz radę?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "89934a9c-3235-4160-b1ce-c59cd7a8fc9d"
+    },
+    {
+      "start_time": 541.364,
+      "end_time": 542.71,
+      "annotation": [
+        {
+          "text": "\tTy nie znosisz upałów.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b1bd09af-cbca-48fc-bdf9-bb41f396a90f"
+    },
+    {
+      "start_time": 542.71,
+      "end_time": 545.444,
+      "annotation": [
+        {
+          "text": "\tTam są bardzo trudne warunki życia.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ebe247c-e07a-4dbb-aa22-50757f3eaa4e"
+    },
+    {
+      "start_time": 545.444,
+      "end_time": 546.486,
+      "annotation": [
+        {
+          "text": "\tNo ale...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d13b6543-4551-4cfe-8a53-1709b66beb56"
+    },
+    {
+      "start_time": 546.486,
+      "end_time": 548.43,
+      "annotation": [
+        {
+          "text": "\tI ona nie zawiadomiła mnie...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "db5f94c9-b9e7-45e2-874c-559814131d18"
+    },
+    {
+      "start_time": 548.43,
+      "end_time": 561.655,
+      "annotation": [
+        {
+          "text": "\tAha i ona jeszcze potem była w kibucu w Łodzi, ja jeszcze pojechałam do Łodzi i ją odwiedziłam w Łodzi i wtedy, pamiętam, byłam w teatrze Idy Kamińskiej w Łodzi, ona mnie wtedy zaprowadziła i później ona miała przyjechać do Warszawy, już nie przyjechała.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a374a94d-05cf-4af9-82d2-9e074066d0c0"
+    },
+    {
+      "start_time": 561.655,
+      "end_time": 565.825,
+      "annotation": [
+        {
+          "text": "\tI znowuż ślad po niej zaginął, po raz nie wiem który.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5dccd7a8-6663-4ae4-bddd-3cefeb224e97"
+    },
+    {
+      "start_time": 565.825,
+      "end_time": 574.774,
+      "annotation": [
+        {
+          "text": "\tI dopiero dostałam list w listopadzie 1946 już z kibucu Jagur.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "31856d1c-4323-4b5b-a2de-8d050c9fe7f3"
+    },
+    {
+      "start_time": 574.774,
+      "end_time": 580.951,
+      "annotation": [
+        {
+          "text": "\tPisały razem z Cywią, opisywały, że były w wielu krajach.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6071310e-ad2a-49a5-b4ad-5af47a1961cf"
+    },
+    {
+      "start_time": 580.951,
+      "end_time": 591.383,
+      "annotation": [
+        {
+          "text": "\tSara była w Czechosłowacji, w Niemczech, we Włoszech, nim się dostała do Palestyny.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e691613a-6814-4ee7-b06f-03ca75e14fc6"
+    },
+    {
+      "start_time": 591.383,
+      "end_time": 594.316,
+      "annotation": [
+        {
+          "text": "\tOpisywała życie w kibucu.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6a18cd5-5542-4476-b553-f4333248e3bb"
+    },
+    {
+      "start_time": 594.316,
+      "end_time": 601.876,
+      "annotation": [
+        {
+          "text": "\tNo i od tego czasu myśmy korespondowały, ale tak dosyć rzadko, bo ona pisywała mało.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d9d47e82-0672-4775-b447-57198b39b740"
+    },
+    {
+      "start_time": 601.876,
+      "end_time": 603.932,
+      "annotation": [
+        {
+          "text": "\tBardzo serdecznie, ale mało.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d66bb3cf-bc9a-4e70-bcb8-ea3f7fc4b57e"
+    },
+    {
+      "start_time": 603.932,
+      "end_time": 611.582,
+      "annotation": [
+        {
+          "text": "\tTylko nie pamiętam, w którym to było roku, pierwszy raz Bartoszewski jechał do Izraela.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "869a0bf3-616c-4f05-8224-d58a4a9bc314"
+    },
+    {
+      "start_time": 611.582,
+      "end_time": 615.355,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: To było już po wojnie 6-dniowej, rozumiem, czy jeszcze wcześniej?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b24350df-6b36-44be-ae18-0c4b143242cc"
+    },
+    {
+      "start_time": 615.355,
+      "end_time": 616.123,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Nie.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9246f1b4-9e8d-44ed-8b35-a94a3dc6bdfb"
+    },
+    {
+      "start_time": 616.123,
+      "end_time": 617.867,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Lata 60.?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9c9fd2fd-87c3-46d5-ae93-f71d81cc51af"
+    },
+    {
+      "start_time": 617.867,
+      "end_time": 620.193,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Początek lat 60.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0299988a-b54b-45e1-be8a-08dac194f7ec"
+    },
+    {
+      "start_time": 620.193,
+      "end_time": 620.886,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Chyba '61/'62\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a59a9276-0d60-4129-b216-7ef97620172b"
+    },
+    {
+      "start_time": 620.886,
+      "end_time": 623.849,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Ja go poprosiłam, żeby on pojechał do kibucu...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "468ec47f-806b-4f5b-93e5-1597b905457d"
+    },
+    {
+      "start_time": 623.849,
+      "end_time": 624.853,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Jagur.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6a743e19-ac65-41f2-801c-dee3492b3fef"
+    },
+    {
+      "start_time": 624.853,
+      "end_time": 626.861,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: ...i zobaczył Sarę.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0dc6c461-9450-4c99-8619-dd4ffa91ee59"
+    },
+    {
+      "start_time": 626.861,
+      "end_time": 631.769,
+      "annotation": [
+        {
+          "text": "\tOn się zgodził, później był bardzo zadowolony, że poznał ten kibuc Lochame ha-Getaot.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f415da43-40d9-4c92-845c-58d4e6b412bd"
+    },
+    {
+      "start_time": 631.769,
+      "end_time": 633.755,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Bo ona była w kibucu Lochame ha-Getaot potem?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "43c35850-cae1-44c3-aa43-6d7471072227"
+    },
+    {
+      "start_time": 633.755,
+      "end_time": 634.352,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Co?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "dc30d7ae-f9e8-47ed-8ad4-1b14aca9ae5a"
+    },
+    {
+      "start_time": 634.352,
+      "end_time": 636.648,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Sara Bidelman była w kibucu Lochame ha-Getaot?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "56322770-9f99-41ea-a65e-eef01589c006"
+    },
+    {
+      "start_time": 636.648,
+      "end_time": 647.118,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Tak, ona była krótko w Jagur, ona wtedy była jedną z założycielek, znaczy ta grupa, która przyjechała wtedy, założyła Lochame ha-Getaot.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "17e0a45c-9401-40bf-aa8a-e01c93580ec7"
+    },
+    {
+      "start_time": 647.118,
+      "end_time": 653.829,
+      "annotation": [
+        {
+          "text": "\tNo i z nią było już smutno, bo ona nie wyszła za mąż, nie miała dzieci.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5635ae53-b97f-44ac-a0a9-3ed6e95d7800"
+    },
+    {
+      "start_time": 653.829,
+      "end_time": 657.375,
+      "annotation": [
+        {
+          "text": "\tMarzyła o studiach, nie mogła studiować.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "32ac37cc-e59f-4b89-9ea4-21319f9a06e9"
+    },
+    {
+      "start_time": 657.375,
+      "end_time": 665.271,
+      "annotation": [
+        {
+          "text": "\tZawsze jej właściwie robota leciała z rąk, ona fizycznie też była jakaś taka niesprawna, miała, jak to się mówi maślane ręce.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2bc9b5d0-bee2-45e5-8dc5-de2b391722c1"
+    },
+    {
+      "start_time": 665.271,
+      "end_time": 671.853,
+      "annotation": [
+        {
+          "text": "\tNie miała żadnych osiągnięć, ani osobistych, ani osiągnięć w pracy zawodowej.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "21afb7bb-2c27-428e-9b63-0f809b6bbf9e"
+    },
+    {
+      "start_time": 671.853,
+      "end_time": 676.843,
+      "annotation": [
+        {
+          "text": "\tI już nie pamiętam po ilu latach, po 10 czy coś od przyjazdu dostała schizofrenii.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "28f3d624-e816-448f-8252-08c1e078a561"
+    },
+    {
+      "start_time": 676.843,
+      "end_time": 684.633,
+      "annotation": [
+        {
+          "text": "\tZnienawidziła Cywię, Antka i tych swoich najbliższych przyjaciół, znienawidziła i kibuc.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3393ff0f-83d9-427b-a238-363956188da1"
+    },
+    {
+      "start_time": 684.633,
+      "end_time": 691.599,
+      "annotation": [
+        {
+          "text": "\tKibuc jej wynajął w końcu kawalerkę w Tel-Awiwie, umieścił ją w zakładzie pracy chronionej.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "adc44afb-ba51-4ea4-afc4-44101108fc7d"
+    },
+    {
+      "start_time": 691.599,
+      "end_time": 696.689,
+      "annotation": [
+        {
+          "text": "\tOna do mnie pisywała jeszcze parę razy na rok krótkie kartki, takie parozdaniowe.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cdacf99f-a47b-4864-8201-06468449c055"
+    },
+    {
+      "start_time": 696.689,
+      "end_time": 706.267,
+      "annotation": [
+        {
+          "text": "\tJak jej jest źle, jak ona grosze zarabia, jak strasznie jej się ciężko żyje, z wymyślaniem na tych swoich dawnych przyjaciół.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a5b45dca-41b5-4b21-a773-11ec642f54f7"
+    },
+    {
+      "start_time": 706.267,
+      "end_time": 708.068,
+      "annotation": [
+        {
+          "text": "\tNo i jest to tragiczny obraz.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ef662c88-f66a-420c-a7a3-24c289a9efe1"
+    },
+    {
+      "start_time": 708.068,
+      "end_time": 712.004,
+      "annotation": [
+        {
+          "text": "\tJeszcze przed zachorowaniem na raz do mnie telefonowała.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "79dd24cd-faf3-4620-a361-7767d5568cc4"
+    },
+    {
+      "start_time": 712.004,
+      "end_time": 719.554,
+      "annotation": [
+        {
+          "text": "\tWtedy jeszcze to był dla kibucu taki niesłychany wydatek, jak się Cywia dowiedziała, się złapała za głowę.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b097695d-58db-4da5-98f7-e5480fe70b11"
+    },
+    {
+      "start_time": 719.554,
+      "end_time": 720.786,
+      "annotation": [
+        {
+          "text": "\t- Cywię widziałam...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0a2964c2-581f-497f-8904-da584c4729b2"
+    },
+    {
+      "start_time": 720.786,
+      "end_time": 723.661,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Znaczy, pani nie zobaczyła Sary więcej?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "759ae1fa-e41d-4697-938c-85f647b02173"
+    },
+    {
+      "start_time": 723.661,
+      "end_time": 724.426,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Nigdy nie widziałam.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7ea46c3e-6da0-44da-b594-e4fa50bf1a0a"
+    },
+    {
+      "start_time": 724.426,
+      "end_time": 725.998,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Ale już nie żyje?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "25662f02-bbf0-4d70-a637-b43140a9d5bc"
+    },
+    {
+      "start_time": 725.998,
+      "end_time": 727.722,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Ona już nie żyje z 10 lat.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cc100862-7a6a-4e9d-bd9c-f636e6efbaf1"
+    },
+    {
+      "start_time": 727.722,
+      "end_time": 728.847,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Tak?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "42efe0b2-91e3-4b35-b133-5392ecbb0985"
+    },
+    {
+      "start_time": 728.847,
+      "end_time": 731.271,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Zresztą można sprawdzić, bo ja mam fotografie jej grobu.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b6f0f35c-818e-4d0d-8fbf-e95c6c024feb"
+    },
+    {
+      "start_time": 731.271,
+      "end_time": 734.507,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: A kiedy była pani po raz 1. w Izraelu?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf4c1187-8f22-4cdb-a199-835e6e01e0d1"
+    },
+    {
+      "start_time": 734.507,
+      "end_time": 739.5,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: W '85 pierwszy raz, w '88 drugi raz.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "207df1ab-0628-45ee-85d7-9d09882a3067"
+    },
+    {
+      "start_time": 739.5,
+      "end_time": 742.193,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: W '85 jeszcze Antek żył?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a8ebf56d-90f3-4ecc-8ac1-445c6a78e69d"
+    },
+    {
+      "start_time": 742.193,
+      "end_time": 742.686,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Nie, nie żył.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c67e7e40-ea9f-4307-be75-1905f9b189de"
+    },
+    {
+      "start_time": 742.686,
+      "end_time": 743.18,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Już nie żył.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "815f1d08-d834-48fd-8183-38f219afc1b6"
+    },
+    {
+      "start_time": 743.18,
+      "end_time": 744.831,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Nie żył. Cywia nie żyła, Antek nie żył.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f800a5bc-eada-4e48-9a7b-fb1ddc21406c"
+    },
+    {
+      "start_time": 744.831,
+      "end_time": 749.184,
+      "annotation": [
+        {
+          "text": "\tZ tym że ja miałam dosyć takie relacje, bo ja poznałam dość wcześnie Anelika.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ae1a516d-f915-4742-8b9e-f86a876adea8"
+    },
+    {
+      "start_time": 749.184,
+      "end_time": 751.318,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Tak.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7de97a37-ad49-41db-bb2c-82289718f75d"
+    },
+    {
+      "start_time": 751.318,
+      "end_time": 755.327,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Chyba w czasie jego pierwszego przyjazdu do Polski.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8fa6b1bb-b02b-4df7-820c-4f7145a65a94"
+    },
+    {
+      "start_time": 755.327,
+      "end_time": 768.146,
+      "annotation": [
+        {
+          "text": "\tI ja korespondowałam z nią. Z nią był kłopot z korespondencją, dlatego że już w '67 roku właściwie było bardzo źle widziane, jak się koresponduje z Izraelem.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a5dd0c66-61c7-49ac-a93b-6429ee6f1096"
+    },
+    {
+      "start_time": 768.146,
+      "end_time": 770.996,
+      "annotation": [
+        {
+          "text": "\tChyba, że się miało jakąś bliską rodzinę.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bb35e831-ecb2-4a49-928a-25cd9fbfea7d"
+    },
+    {
+      "start_time": 770.996,
+      "end_time": 773.859,
+      "annotation": [
+        {
+          "text": "\tAle ja jej tego, jak ona miała schizofrenię, nie mogłam wytłumaczyć.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3eaa7bc1-5bed-45aa-8997-7bac5f909810"
+    },
+    {
+      "start_time": 773.859,
+      "end_time": 776.899,
+      "annotation": [
+        {
+          "text": "\tJa owszem korespondowałam z innymi, ale przez inne kraje.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "37e70648-3086-4e00-8364-5b3249807100"
+    },
+    {
+      "start_time": 776.899,
+      "end_time": 797.19,
+      "annotation": [
+        {
+          "text": "\tJeżeli byłam za granicą, jak byłam w Danii, czy gdzie indziej, to ja pisałam do Kazika, czy pisałam do Abramów, czy nawet w ten sposób korespondowałam, że jak ktoś z przyjaciół jechał do Szwajcarii, do Francji, do Anglii, ja dawałam list, prosiłam, żeby odpisali zaraz i ten ktoś mi list przywoził, albo ustną relację.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1cb8ce38-dac5-4188-a79d-ef8617271983"
+    },
+    {
+      "start_time": 797.19,
+      "end_time": 800.461,
+      "annotation": [
+        {
+          "text": "\tJa miałam rzeczywiście sporo tych listów.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9f4924a9-a8ec-4c68-ba50-b8d91908c9d5"
+    },
+    {
+      "start_time": 800.461,
+      "end_time": 811.558,
+      "annotation": [
+        {
+          "text": "\tJej by się nie wytłumaczyło, dlaczego ona ma pisać do Szwajcarii, a nie do mnie wprost i by napisała głupstwa, dlatego to była jedyna osoba, której ja pisałam te króciutkie kartki w tym okresie.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "45cf982f-034f-4968-b000-81dfef91bb02"
+    },
+    {
+      "start_time": 811.558,
+      "end_time": 817.372,
+      "annotation": [
+        {
+          "text": "\tA mnie wtedy UB ciągało, nie o nią, ale o stosunki z ambasadą.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8269df23-3433-4c52-bcea-0504107ae7af"
+    },
+    {
+      "start_time": 817.372,
+      "end_time": 824.923,
+      "annotation": [
+        {
+          "text": "\tBo przez Kazika ja miałam nawiązane bardzo miłe stosunki najpierw z panem Netzerem i jego rodziną.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b3040432-5f89-48de-bf75-67e3a450d5cd"
+    },
+    {
+      "start_time": 824.923,
+      "end_time": 837.243,
+      "annotation": [
+        {
+          "text": "\tTakże ja u nich byłam kilka razy w domu, oni byli u mnie, pamiętam, na choince z gromadą dzieci i to już nasze UB wiedziało i mnie potem kilka razy ciągało.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d8e0c24-661d-4af0-91a4-8d56fda8a756"
+    },
+    {
+      "start_time": 837.243,
+      "end_time": 850.493,
+      "annotation": [
+        {
+          "text": "\tJa wtedy powiedziałam, już pod ich naciskiem, że ja nie muszę utrzymywać stosunków z ambasadą, ale mówię wam z góry, że jeżeli przyjedzie ktoś z moich starych przyjaciół z Izraela, to z nimi kontakt będę utrzymywać.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "903461c1-e851-4129-a3c4-5b4b9bab3e4c"
+    },
+    {
+      "start_time": 850.493,
+      "end_time": 858.892,
+      "annotation": [
+        {
+          "text": "\tA już, powiedzmy, przyjaciele moich przyjaciół pytali się, skąd mam kontakt z ambasadą, powiedziałam przyjaciele moich przyjaciół.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3bbf5fb3-867d-417c-9606-3e03c1a2c380"
+    },
+    {
+      "start_time": 858.892,
+      "end_time": 861.815,
+      "annotation": [
+        {
+          "text": "\tNo, a potem już było łatwo.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a69a84a4-e156-408b-b220-b94ea2a3a658"
+    },
+    {
+      "start_time": 861.815,
+      "end_time": 865.699,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: A w którym roku pani otrzymała ten medal Sprawiedliwy wśród Narodów Świata?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b52fd346-9e9b-4128-8304-cf4975c2ab03"
+    },
+    {
+      "start_time": 865.699,
+      "end_time": 866.435,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Że co? Nie słyszę.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0e5a7121-2b1d-46e4-9136-a04daa750705"
+    },
+    {
+      "start_time": 866.435,
+      "end_time": 869.581,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: W którym roku pani otrzymała medal Sprawiedliwy...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "582823d2-b48c-4cec-965b-3e753d4714d0"
+    },
+    {
+      "start_time": 869.581,
+      "end_time": 870.907,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: W '85 jak pojechałam...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "28666acf-a320-4f3b-8e6a-3932b2e9ad4b"
+    },
+    {
+      "start_time": 870.907,
+      "end_time": 873.029,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Tak i kto to podał w ogóle?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b505a0ab-c95a-4dc8-9df0-c8ebb1198f20"
+    },
+    {
+      "start_time": 873.029,
+      "end_time": 873.761,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Kazik.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "51ba23e4-4e5e-4814-aa45-c59c9ec07e07"
+    },
+    {
+      "start_time": 873.761,
+      "end_time": 874.494,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Kazik.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "80909bca-bb4c-4cae-8877-7825b063c40f"
+    },
+    {
+      "start_time": 874.494,
+      "end_time": 876.201,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Przypuszczam, że Kazik...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "82549acc-ba56-4750-8769-87abf53866ff"
+    },
+    {
+      "start_time": 876.201,
+      "end_time": 878.198,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Tak.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "27d3e4d1-e79f-4b69-8573-71e55f239cde"
+    },
+    {
+      "start_time": 878.198,
+      "end_time": 887.043,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Kazik był tym, który mnie oficjalnie wprowadzał, wygłosił to przemówienie i w Grocie Pamięci Kazik coś tam mówił.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "41fc7269-49e8-49f5-8b4f-8010ed6a69c1"
+    },
+    {
+      "start_time": 887.043,
+      "end_time": 890.192,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Dobrze, proszę powiedzieć trochę o sobie samej po wojnie.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "dc96e8d3-1245-44fe-a859-5bcac9431d5b"
+    },
+    {
+      "start_time": 890.192,
+      "end_time": 891.824,
+      "annotation": [
+        {
+          "text": "\t- Pani, rozumiem, założyła rodzinę...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "41e6ad77-8fca-46e1-bad5-7fa1d94de877"
+    },
+    {
+      "start_time": 891.824,
+      "end_time": 892.804,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Nie, ja...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3432680c-0228-4661-882e-be766eb684e3"
+    },
+    {
+      "start_time": 892.804,
+      "end_time": 894.054,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: ... skończyła pani studia...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d017f15d-ce3d-41d8-860b-b3763f3affd4"
+    },
+    {
+      "start_time": 894.054,
+      "end_time": 908.571,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: ...uważam, że ważniejsze jest co innego, co chciałam powiedzieć, że dzięki tej znajomości z ŻOB-owcami, po pierwsze zainteresowałam się syjonizmem, a przede wszystkim Izraelem.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "882688fb-9521-4476-84e1-d584f6e0dde1"
+    },
+    {
+      "start_time": 908.571,
+      "end_time": 923.628,
+      "annotation": [
+        {
+          "text": "\tI to, że ja napisałam potem kilka artykułów i książkę na te tematy to był właśnie skutek tych moich kontaktów nawiązanych w czasie okupacji.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a99edcbd-2990-409b-8869-01dc0903940b"
+    },
+    {
+      "start_time": 923.628,
+      "end_time": 930.974,
+      "annotation": [
+        {
+          "text": "\tJa mam wydrukowanych 5 artykułów, mam jeszcze obszerne niedrukowane rzeczy, prawie 100 stron.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "84c84791-732b-4f79-8e34-826803a41a79"
+    },
+    {
+      "start_time": 930.974,
+      "end_time": 936.174,
+      "annotation": [
+        {
+          "text": "\tWielokrotnie miałam jakieś odczyty, pogadanki na tematy izraelskie.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "25f7b361-5ac0-43f2-9f1f-c2b957195fd3"
+    },
+    {
+      "start_time": 936.174,
+      "end_time": 942.502,
+      "annotation": [
+        {
+          "text": "\tJestem wśród założycieli Towarzystwa Przyjaźni Polsko-Izraelskiej.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "eae0c014-8221-4af5-a74e-924994d7f8f4"
+    },
+    {
+      "start_time": 942.502,
+      "end_time": 948.085,
+      "annotation": [
+        {
+          "text": "\tNo i wśród znajomych uchodzę za eksperta od kibuców.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "96a5b169-562d-4208-aaa6-ff6e5b3d69d9"
+    },
+    {
+      "start_time": 948.085,
+      "end_time": 955.448,
+      "annotation": [
+        {
+          "text": "\tTo zresztą pana kolega wtedy w ambasadzie pomagał mi, zdobywał dla mnie dane statystyczne.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "56078674-3e59-4bc3-b195-e5e2225620cd"
+    },
+    {
+      "start_time": 955.448,
+      "end_time": 961.996,
+      "annotation": [
+        {
+          "text": "\tJak pisałam takie obszerne opracowanie o Izraelu i o kibucach to właśnie na blisko 100 stron.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "66f4bfe4-0c90-44e5-967b-53416785a69a"
+    },
+    {
+      "start_time": 961.996,
+      "end_time": 963.988,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Pani jest z zawodu architektem?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "32c86f01-e22d-469f-97a9-94b1c1a2d080"
+    },
+    {
+      "start_time": 963.988,
+      "end_time": 968.596,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Ja, nie, jak straciłam rękę, to nie mogłam...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c005995d-9ff8-4b99-b415-3fac90e9a7a2"
+    },
+    {
+      "start_time": 968.596,
+      "end_time": 969.787,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Bo pani nie mówiła o tym, pani skończyła...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6d2b2c8e-415a-4c36-9340-dbf5c975a90c"
+    },
+    {
+      "start_time": 969.787,
+      "end_time": 972.341,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Ja skończyłam Szkołę Główną Handlową.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8fe4a2f4-75a0-4f92-b3c8-19731f9ee3e9"
+    },
+    {
+      "start_time": 972.341,
+      "end_time": 973.619,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Aha, tak.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6f484797-ffdc-4ce4-8480-e97b2e6de031"
+    },
+    {
+      "start_time": 973.619,
+      "end_time": 977.104,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: I później pracowałam 20 lat na uczelni.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d5a8dabf-035c-454f-8d99-162351a7f295"
+    },
+    {
+      "start_time": 977.104,
+      "end_time": 979.763,
+      "annotation": [
+        {
+          "text": "\t- W '68 roku mnie wylali z dnia na dzień.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a69c77e-016c-486a-8140-704788abd263"
+    },
+    {
+      "start_time": 979.763,
+      "end_time": 981.604,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Za syjonizm?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7f76372-a54c-40df-aa92-37dba8b65e3e"
+    },
+    {
+      "start_time": 981.604,
+      "end_time": 995.588,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Dlatego, że dałam w pysk jednej ubeczce w publicznym miejscu, która strasznie obgadywała na studentów, ja się strasznie oburzałam, z nią polemizowałam, ona przekręcała sto razy moje słowa i ją huknęłam w pysk.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a0db5aa5-603b-4661-afa0-907827bbc6ef"
+    },
+    {
+      "start_time": 995.588,
+      "end_time": 1007.746,
+      "annotation": [
+        {
+          "text": "\tNo i byłam kozłem ofiarnym, bo wywalili wtedy wiele osób, ale ja zostałam wywalona po pierwsze z dnia na dzień, bez żadnej wypłaty po 20 latach pracy.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "27c629df-99bd-48cd-a439-44147d82dada"
+    },
+    {
+      "start_time": 1007.746,
+      "end_time": 1014.266,
+      "annotation": [
+        {
+          "text": "\tA poza tym zrobili mi proces o chuligaństwo, groził mi rok więzienia.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e1a3723c-c96f-419d-98ff-2d61590f4c35"
+    },
+    {
+      "start_time": 1014.266,
+      "end_time": 1017.982,
+      "annotation": [
+        {
+          "text": "\tTo było w dwóch... nawet dwie rozprawy były.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "537901f0-a5cf-4dc5-ba00-f72a12ad4595"
+    },
+    {
+      "start_time": 1017.982,
+      "end_time": 1026.269,
+      "annotation": [
+        {
+          "text": "\tW maju bodajże i w październiku, no w końcu mnie uwolniono z tego, ja miałam wtedy syna na utrzymaniu całkowitym, rok przed maturą.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "38b262ba-cb51-426e-beb8-4eccb21e8782"
+    },
+    {
+      "start_time": 1026.269,
+      "end_time": 1030.467,
+      "annotation": [
+        {
+          "text": "\tStraciłam pracę, odzyskałam pracę dopiero po prawie 5 latach.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "24078fa4-032a-4822-a1bf-5222465e24fe"
+    },
+    {
+      "start_time": 1030.467,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "text": "\tTakże 4 lata i 3 kwartały byłam tylko na pracach zleconych.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e4b90c9b-8c2c-4841-8b2c-1e4427b06f14"
+    },
+    {
+      "start_time": 1038,
+      "end_time": 1041.098,
+      "annotation": [
+        {
+          "text": "\tTak to wyglądało.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cefc64de-b1e0-476f-9e5a-5192de3c400f"
+    },
+    {
+      "start_time": 1041.098,
+      "end_time": 1043.296,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: A co pani wykładała?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "092f935d-2e23-4f07-bfb2-68e9f02e02b1"
+    },
+    {
+      "start_time": 1043.296,
+      "end_time": 1058.578,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: Politykę społeczną. No ja na ten temat mam dużo artykułów, szczególnie rehabilitacja inwalidów i gerontologia społeczna.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c9a110a-0393-4109-8537-ed9797e3b33a"
+    },
+    {
+      "start_time": 1058.578,
+      "end_time": 1068.583,
+      "annotation": [
+        {
+          "text": "\tA od kilku lat pisuję raczej na tematy żydowsko-izraelskie, to mnie po prostu interesuje.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e5d400f9-39b7-4043-a4c3-b52e0e5f6d5e"
+    },
+    {
+      "start_time": 1068.583,
+      "end_time": 1071.473,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Dobrze, dziękuję pani bardzo.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7114d796-7e0f-4680-9079-d6b4cdebf409"
+    },
+    {
+      "start_time": 1071.473,
+      "end_time": 1073.112,
+      "annotation": [
+        {
+          "text": "\tROZMÓWCA: No to jak pan wyłączy to jeszcze...\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "dcab487c-0534-4c79-9f02-c04e8b2fbeb8"
+    },
+    {
+      "start_time": 1073.112,
+      "end_time": 1074.027,
+      "annotation": [
+        {
+          "text": "\tPROWADZĄCY: Dobrze, proszę wyłączyć."
+        }
+      ],
+      "tags": [],
+      "uuid": "fe9372e3-533d-4a35-9d3b-95e67363c6ba"
+    }
+  ]
+}
