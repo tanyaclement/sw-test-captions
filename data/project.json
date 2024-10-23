@@ -1,21 +1,26 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "tanyaclement",
+    "title": "Caption Manifests",
+    "description": "This is a sample project made with a IIIF manifest that has captions. ",
+    "language": "en",
+    "slug": "sw-test-captions",
+    "creator": "tanyaclement",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2024-10-23T17:52:03.903Z",
+    "updated_at": "2024-10-23T17:52:03.903Z"
   }
 }
